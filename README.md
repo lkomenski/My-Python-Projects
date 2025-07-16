@@ -1,2 +1,3 @@
 # My-Python-Projects
-A collection of finished projects I've made 
+I am a student in the Software Development AAS Program at Bates Technical College. 
+This is a collection of projects I have finished while learning how to code and use Python.
