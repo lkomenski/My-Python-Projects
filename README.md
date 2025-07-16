@@ -5,3 +5,8 @@ This is a collection of projects I have finished while learning how to code and 
 
 **BASIC GAMES**
 1. Hangman GUI
+
+#
+
+**TOOLS AND UTILITIES**
+1. File Organizer
