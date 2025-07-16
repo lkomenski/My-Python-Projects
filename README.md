@@ -4,7 +4,7 @@ This is a collection of projects I have finished while learning how to code and 
 #
 
 **BASIC GAMES**
-1. [Hangman GUI](BASIC%20GAMES/Hangman%20GUI/)
+1. [Hangman GUI](Basic%20Games/Hangman%20GUI)
 
 #
 
