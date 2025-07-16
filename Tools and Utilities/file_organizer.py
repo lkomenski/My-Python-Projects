@@ -72,4 +72,4 @@ def organize_folder(folder_path):
                 log_move(filename, file_path, new_path, size_bytes)
 
 # Insert your folder path here
-organize_folder("C:\\Users\\lkome\\OneDrive\\Desktop\\Python Practice\\Tools and Utilities\\test-folder")
+organize_folder("folder-path")
